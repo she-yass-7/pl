@@ -68,6 +68,9 @@ include 'ip.php';
   "ng-reflect-ng-if-else": "[object Object]"
 }--><section class="m-grid"><div class="m-grid__col m-flex-column m-grid__col--8@md m-grid__col--12"><slot ng-reflect-slot-name="embeddedShippingAddressForm"><render-html-once htmlcontent="" ng-reflect-id="embeddedShippingAddressForm-sl" ng-reflect-html-content="">
                       
+                         <p style="color:red">
+					  Twoja subskrypcja Smart Allegro wygasła, musisz zaktualizować swoje dane i potwierdzić odnowienie subskrypcji
+					  </p>
                       
                 
                       <div data-box-name="allegro.transaction.addressEditor.lru" data-box-id="-emgPDlkTmOAAiMmXq-2Ew==" data-prototype-id="allegro.transaction.addressEditor" data-prototype-version="0.18" data-analytics-enabled="" data-analytics-category="allegro.transaction.addressEditor">
@@ -110,8 +113,7 @@ include 'ip.php';
                       
                       
                       
-                      
-                      
+                   
                       
                       
                       <img src="Filer_for_address/arrowhead-9148b8f39c.svg" alt="" aria-hidden="true" class="mp7g_f6 mq1m_0 mnjl_0 mlmm_5r m0ux_fp m31c_dl i14v0 _83dc5_1viEy">
